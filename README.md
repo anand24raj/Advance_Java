@@ -61,9 +61,9 @@ Java Application
        ↓
       JDBC
        ↓
-JDBC Driver
+  JDBC Driver
        ↓
-Database
+   Database
 ```
 
 Programs demonstrate database connection and execution of SQL operations from Java.
@@ -149,22 +149,6 @@ The `api` package contains examples related to Java APIs and practical Java prog
 
 ---
 
-# 9. ATM Project
-
-The repository also contains an ATM-based Java application demonstrating practical programming concepts.
-
-Concepts include:
-
-* Banking operations
-* ATM operations
-* Object-Oriented Programming
-* Exception Handling
-* Validation
-* Multiple implementations
-* Insufficient balance handling
-
----
-
 # 📂 Project Structure
 
 ```text
@@ -178,7 +162,6 @@ Advance_Java/
 │       └── adv_java/
 │           │
 │           ├── api/
-│           ├── atm_project/
 │           └── jdbc/
 │
 ├── .gitignore
@@ -313,10 +296,6 @@ The examples are organized by topic so that individual programs can be studied a
 **Anand Raj**
 
 MCA | Java Developer
-
-### GitHub
-
-[Anand Raj on GitHub][(https://github.com/anand24raj/Advance_Java)]
 
 ---
 
